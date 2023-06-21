@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://mamdouhreda.github.io/csb-7rr9hx/static/js/main.0c3d0210.chunk.js",
+    "main.js.map": "https://mamdouhreda.github.io/csb-7rr9hx/static/js/main.0c3d0210.chunk.js.map",
+    "runtime-main.js": "https://mamdouhreda.github.io/csb-7rr9hx/static/js/runtime-main.7c4a7931.js",
+    "runtime-main.js.map": "https://mamdouhreda.github.io/csb-7rr9hx/static/js/runtime-main.7c4a7931.js.map",
+    "static/js/2.61ae90a2.chunk.js": "https://mamdouhreda.github.io/csb-7rr9hx/static/js/2.61ae90a2.chunk.js",
+    "static/js/2.61ae90a2.chunk.js.map": "https://mamdouhreda.github.io/csb-7rr9hx/static/js/2.61ae90a2.chunk.js.map",
+    "index.html": "https://mamdouhreda.github.io/csb-7rr9hx/index.html",
+    "precache-manifest.ad9bb5b1fbbf8d1fdcd55f99749f184c.js": "https://mamdouhreda.github.io/csb-7rr9hx/precache-manifest.ad9bb5b1fbbf8d1fdcd55f99749f184c.js",
+    "service-worker.js": "https://mamdouhreda.github.io/csb-7rr9hx/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c4a7931.js",
+    "static/js/2.61ae90a2.chunk.js",
+    "static/js/main.0c3d0210.chunk.js"
+  ]
+}
